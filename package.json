@@ -1,0 +1,22 @@
+{
+  "name": "express-api",
+  "description": "a express api generator",
+  "version": "1.0.0",
+  "private": true,
+  "author": "YsnIrix",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "joi": "^17.4.2",
+    "mongoose": "^5.13.7",
+    "morgan": "^1.10.0",
+    "node-cache": "^5.1.2"
+  }
+}
