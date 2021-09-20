@@ -1,3 +1,11 @@
+/**
+ * @author Ysn4Irix
+ * @email ysn4irix@gmail.com
+ * @create date 24-08-2021
+ * @modify date 20-09-2021
+ * @desc [Users Model]
+ */
+
 const mongoose = require("mongoose");
 
 const userSchema = mongoose.Schema(

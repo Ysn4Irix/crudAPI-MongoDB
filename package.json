@@ -1,9 +1,9 @@
 {
-  "name": "express-api",
-  "description": "a express api generator",
+  "name": "crudapi-mongodb",
+  "description": "A RestAPI MongoDB CRUD Operations build using NodeJS Express MongoDB",
   "version": "1.0.0",
   "private": true,
-  "author": "YsnIrix",
+  "author": "Ysn4Irix",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

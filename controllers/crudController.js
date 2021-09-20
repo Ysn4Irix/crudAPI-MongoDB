@@ -1,3 +1,11 @@
+/**
+ * @author Ysn4Irix
+ * @email ysn4irix@gmail.com
+ * @create date 24-08-2021
+ * @modify date 20-09-2021
+ * @desc [CRUD Controller]
+ */
+
 const User = require("../models/Users");
 const { validateInsert, validateUpdate } = require("../helpers/validation");
 const nodecache = require("node-cache");
