@@ -103,7 +103,7 @@ PATCH /api/v1/{user_id}
     }
 }
 ```
-### Delete a wobble
+### Delete a user
 Deletes a user by id
 ```endpoint
 DELETE /api/v1/{user_id}
